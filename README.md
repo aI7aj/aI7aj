@@ -61,4 +61,5 @@
 
 <br clear="both">
 
-<im
+<img src="https://raw.githubusercontent.com/aI7aj/aI7aj/output/snake.svg" alt="Snake animation" />
+
